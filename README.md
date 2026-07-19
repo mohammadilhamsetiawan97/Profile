@@ -68,11 +68,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-orpin.vercel.app/api?username=mohammadilhamsetiawan97&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats-sigma-orpin.vercel.app/api/top-langs/?username=mohammadilhamsetiawan97&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadilhamsetiawan97&theme=tokyonight" alt="streak stats" />
 </p>
 
