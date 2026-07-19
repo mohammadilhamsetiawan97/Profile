@@ -1,12 +1,12 @@
-<h1 align="center">Hi There, I'm [MOHAMMAD ILHAM SETIAWAN] 👋</h1>
+<h1 align="center">Hi There, I'm MOHAMMAD ILHAM SETIAWAN 👋</h1>
 <h3 align="center">Full Stack Developer | Cyber Security Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;PHP+%7C+MySQL+%7C+Python;Cyber+Security+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;PHP+%7C+MySQL+%7C+Python;Machine+Learning+Enthusiast;Cyber+Security+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile%20Views&color=2F81F7&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mohammadilhamsetiawan97&label=Profile%20Views&color=2F81F7&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -14,8 +14,9 @@
 ### 🚀 About Me
 
 - 🔭 Saat ini fokus mengembangkan aplikasi **Full Stack Web Development**
-- 🌱 Sedang memperdalam ilmu **Cyber Security**
+- 🌱 Sedang memperdalam ilmu **Cyber Security** dan **Machine Learning**
 - 💻 Bahasa pemrograman yang saya kuasai: **PHP, MySQL, Python**
+- 🤖 Tertarik dengan **Machine Learning & Data Science**
 - 🛡️ Tertarik dengan dunia **Ethical Hacking & Penetration Testing**
 - 📫 Terbuka untuk kolaborasi project & diskusi teknologi
 - ⚡ Fun fact: Saya suka membongkar sistem untuk mengerti cara kerjanya!
@@ -35,6 +36,16 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+### 🤖 Machine Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
 ### 🔐 Cyber Security Tools
 
 <p align="left">
@@ -49,12 +60,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadilhamsetiawan97&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadilhamsetiawan97&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadilhamsetiawan97&theme=tokyonight" alt="streak stats" />
 </p>
 
 ---
