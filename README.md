@@ -6,6 +6,14 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Coding.gif" width="400" alt="coding gif" onerror="this.style.display='none'"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammadilhamsetiawan97&label=Profile%20Views&color=2F81F7&style=flat" alt="profile views" />
 </p>
 
@@ -60,13 +68,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadilhamsetiawan97&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadilhamsetiawan97&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadilhamsetiawan97&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadilhamsetiawan97&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadilhamsetiawan97&theme=tokyonight" alt="streak stats" />
 </p>
+
+> ℹ️ Jika gambar stats di atas tidak muncul (ikon 😞 "Could not find a user" atau error camo), itu biasanya server pihak ketiga sedang down/overload sesaat — coba refresh halaman GitHub beberapa saat lagi. Ini bukan masalah pada kode README Anda.
 
 ---
 
