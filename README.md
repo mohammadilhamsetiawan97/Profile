@@ -70,9 +70,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadilhamsetiawan97&theme=tokyonight" alt="streak stats" />
 </p>
-
-> ℹ️ Jika gambar stats masih error, itu karena server publik github-readme-stats sedang overload (dipakai jutaan profil). Solusi paling permanen: deploy instance sendiri secara gratis lewat tombol "Deploy" di repo resmi https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance — lalu ganti domain di URL gambar dengan domain Vercel Anda sendiri.
-
 ---
 
 ### 🌐 Connect With Me
